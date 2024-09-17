@@ -8,7 +8,7 @@ public class KafkickApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KafkickApplication.class, args);
-		System.out.println("자기 사랑행~");
+		System.out.println("test yo");
 	}
 
 }
