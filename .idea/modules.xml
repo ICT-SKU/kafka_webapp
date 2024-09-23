@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/juyong.iml" filepath="$PROJECT_DIR$/juyong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafkickDB/kafkickDB.iml" filepath="$PROJECT_DIR$/kafkickDB/kafkickDB.iml" />
+    </modules>
+  </component>
+</project>
